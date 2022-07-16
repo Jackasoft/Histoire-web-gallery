@@ -1,1 +1,4 @@
-# Histoire-web-gallery
+# Histoire web gallery
+
+    Easy web gallery with:
+         Javascript,simple CSS3,PHP,
